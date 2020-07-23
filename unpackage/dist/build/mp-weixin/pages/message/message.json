@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "消息页面",
+  "usingComponents": {
+    "uni-rate": "/components/messageCom"
+  }
+}
